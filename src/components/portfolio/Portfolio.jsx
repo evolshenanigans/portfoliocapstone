@@ -1,8 +1,8 @@
 import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../images/initaldSS.JPG'
-import IMG2 from '../../images/initaldSS.JPG'
-import IMG3 from '../../images/initaldSS.JPG'
+import IMG2 from '../../images/avt2.JPG'
+import IMG3 from '../../images/avt3.jpg'
 
 const data = [
   {
@@ -14,15 +14,15 @@ const data = [
     },
   {
     id:2,
-    image: IMG1,
-    title: 'Initial D API',
-    github: 'https://github.com',
-    demo: 'https://initiald-inventory.herokuapp.com/'
+    image: IMG2,
+    title: 'This Portfolio',
+    github: 'https://github.com/evolshenanigans/portfoliocapstone.git',
+    demo: 'https://joshgutierrezportfolio.herokuapp.com/'
     },
   {
     id:3,
-    image: IMG1,
-    title: 'Initial D API',
+    image: IMG3,
+    title: 'Crypto Tracker',
     github: 'https://github.com',
     demo: 'https://initiald-inventory.herokuapp.com/'
     },

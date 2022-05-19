@@ -2,7 +2,7 @@ import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../images/initaldSS.JPG'
 import IMG2 from '../../images/avt2.JPG'
-import IMG3 from '../../images/avt3.jpg'
+import IMG3 from '../../images/cryptoss.JPG'
 
 const data = [
   {

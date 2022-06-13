@@ -17,14 +17,14 @@ const data = [
     image: IMG2,
     title: 'This Portfolio',
     github: 'https://github.com/evolshenanigans/portfoliocapstone.git',
-    demo: 'https://joshgutierrezportfolio.herokuapp.com/'
+    demo: '#'
     },
   {
     id:3,
     image: IMG3,
     title: 'Crypto Tracker',
-    github: 'https://github.com',
-    demo: 'https://initiald-inventory.herokuapp.com/'
+    github: 'https://github.com/evolshenanigans/capstone',
+    demo: 'https://cryptotracker-89623.web.app/'
     },
 ]
 

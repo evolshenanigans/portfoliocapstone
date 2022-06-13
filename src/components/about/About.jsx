@@ -35,7 +35,7 @@ const About = () => {
               <small>Adding More Everyday</small>
             </article>
           </div>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis aperiam ducimus ex eveniet commodi minima beatae eligendi nisi. Ipsum tenetur est eos nesciunt nam pariatur voluptates iste ullam commodi officiis?</p>
+          <p>Josh Gutierrez here. I made this website to show off what I can bring to the table if you hire me. I learn fast and am willing to put in the effort to help my future employer.</p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
